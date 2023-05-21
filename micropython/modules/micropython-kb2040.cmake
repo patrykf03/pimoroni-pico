@@ -23,10 +23,11 @@ include(plasma/micropython)
 include(micropython-common-ulab)
 enable_ulab()
 
+include(modules_py/modules_py)
+
 # Scroll
 include(pico_scroll/micropython)
 
-include(modules_py/modules_py)
 
 # C++ Magic Memory
 include(cppmem/micropython)

@@ -1,7 +1,7 @@
 #pragma once
 
 #include <string>
-#include "pico_graphics.hpp"
+#include "../pico_graphics/pico_graphics.hpp"
 
 namespace pimoroni {
 
