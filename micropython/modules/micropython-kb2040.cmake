@@ -24,7 +24,7 @@ include(micropython-common-ulab)
 enable_ulab()
 
 # Scroll
-include(pico_scroll/miicropython)
+include(pico_scroll/micropython)
 
 include(modules_py/modules_py)
 
